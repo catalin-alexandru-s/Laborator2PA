@@ -24,7 +24,5 @@ public class Main {
         Source s3 = new Source();
         s3.setName("Rosario");
         s3.setCapacity(9);
-
-
     }
 }
